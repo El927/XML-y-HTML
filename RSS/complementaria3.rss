@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias Deportivas</title>
+        <link>https://www.marca.com/ultimas-noticias.html</link>
+        <description>Web sobre noticias del mundo del deporte</description>
+        <language>es</language>
+        <pubDate>29 Feb 2024 00:00:00 GMT </pubDate>
+            <item>
+                <title>Habrá Mundiales de atletismo cada año a partir de 2025</title>
+                <link>https://www.marca.com/atletismo/2024/02/28/65dfab5446163f71bc8b45c1.html</link>
+                <description>Se celebrarán de Campeonatos del Mundo al Aire Libre cada año, a partir de 2025.</description>
+                <pubDate>28/02/2024</pubDate>
+                <category>Atletismo</category>
+            </item>
+            <item>
+                <title>España, una máquina (im)perfecta: "Hace seis meses no daban un duro por nosotras y..."</title>
+                <link>https://www.marca.com/futbol/futbol-femenino/uefa-nations-league-femenina/2024/02/28/65dfb05746163f6a848b45a3.html</link>
+                <description>La liga femenina de España pasó por encima de Francia en la final.</description>
+                <pubDate>28/02/2024</pubDate>
+                <category>Futbol</category>
+            </item>
+    </channel>
+</rss>

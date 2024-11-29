@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Cómo crear un Feed RSS</title>
+        <link>hhtps://www.ejemplo.com/como-crear-rss</link>
+        <description>Aprender a crear un fee RSS para sindicar tu contenido en linea.</description>
+        <language>es</language>
+        <pubDate>1 Dec 2023 00:00:00 GMT </pubDate>
+            <item>
+                <title>Entrevista con Expertos</title>
+                <link>hhtps://www.ejemplo.com/episodio1</link>
+                <description>Conversación con líderes en la industria sobre temas interesantes</description>
+                <pubDate>2023-12-03</pubDate>
+                <duration>00:30:00</duration>
+            </item>
+    </channel>
+</rss>

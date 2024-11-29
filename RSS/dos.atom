@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title>Como crear un Feed Atom</title>
+    <link href="http://www.ejemplo.com/como-crear-un-feed-atom" rel="alternate"/>
+    <id>http://www.ejemplo.com/como-crear-un-feed-atom</id>
+    <updated>2023-12-02T12:00:00Z</updated>
+    <author>
+        <name>David</name>
+    </author>
+</feed>
